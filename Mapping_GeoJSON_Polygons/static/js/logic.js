@@ -36,7 +36,7 @@ let myStyle = {
 L.control.layers(baseMaps).addTo(map);
 
 // Accessing the Toronto neighborhoods GeoJSON URL.
-let torontoHoods = "tbd";
+let torontoHoods = "https://github.com/LauraMarieRoss/Mapping_Earthquakes/blob/6644c3a7b2d6c477a22c2d5027402c30e25a41ea/Mapping_GeoJSON_Polygons/torontoNeighborhoods.json";
 
 
 // Grabbing our GeoJSON data.
