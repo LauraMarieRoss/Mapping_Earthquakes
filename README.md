@@ -17,6 +17,6 @@ The purpose of this project is to visually show the differences between the magn
 
 Click here to see the live site
  
-<a href="https://lauramarieross.github.io/BellyButton/" target="_blank">here.</a><br><br>
-<a href="https://lauramarieross.github.io/BellyButton/">
+<a href="https://lauramarieross.github.io/Mapping_Earthquakes/" target="_blank">here.</a><br><br>
+<a href="https://lauramarieross.github.io/Mapping_Earthquakes/">
          <img alt="Belly Button Dashboard" src="https://user-images.githubusercontent.com/105830645/186109969-0f2da2e9-bcec-40f4-a2d9-03ce4caad5a8.png"></a>
