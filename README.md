@@ -10,3 +10,5 @@ Creating a single point map using Leaflet and Mapbox
 Creating a multi-point map using Leaflet and Mapbox
 ![image](https://user-images.githubusercontent.com/105830645/190942261-aa655c6c-8e2a-44a4-963d-83c4b635af8a.png)
 
+Created a simple line map using Leaflet and Mapbox
+![image](https://user-images.githubusercontent.com/105830645/190950064-a787cf62-4ab0-4168-8ae6-5a00836e4b14.png)
