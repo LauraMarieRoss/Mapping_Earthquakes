@@ -1,12 +1,22 @@
-# Mapping_Earthquakes
- Interactive earthquake mapping using using GeoJSON data
+# Mapping Earthquakes
+The purpose of this project is to visually show the differences between the magnitudes of earthquakes all over the world for the last seven days. Maps were created using Leaflet and Mapbox JavaScript libraries, which allow for dynamic and interactive maps. 
+
+## Resources
+
+<b>Data Sources:</b><br>
+- <a href=https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson>GeoJSON Earthquake Feed</a>, an earthquake feed provided by https://earthquake.usgs.gov/<br>
+
+<b>Components:</b><br>
+- JavaScript for parsing the data and creating functions to display and filter the data.<br>
+- Leaflet JavaScript Library<br>
+- Mapbox JavaScript Library<br>
+- D3.js JavaScript Library<br>
+- IntelliJ IDEA 2022.2 coding environment<br>
+
+# Earthquake Map
+
+Click here to see the live site
  
-Creating a simple map using Leaflet and Mapbox
-![image](https://user-images.githubusercontent.com/105830645/190936955-504f0403-9bf8-48ee-a6a9-8cabd6d5a936.png)
-
-Creating a single point map using Leaflet and Mapbox
-![image](https://user-images.githubusercontent.com/105830645/190940358-dbc9a1e6-ea9c-4261-834a-f972f820bb58.png)
-
-Creating a multi-point map using Leaflet and Mapbox
-![image](https://user-images.githubusercontent.com/105830645/190942261-aa655c6c-8e2a-44a4-963d-83c4b635af8a.png)
-
+<a href="https://lauramarieross.github.io/BellyButton/" target="_blank">here.</a><br><br>
+<a href="https://lauramarieross.github.io/BellyButton/">
+         <img alt="Belly Button Dashboard" src="https://user-images.githubusercontent.com/105830645/186109969-0f2da2e9-bcec-40f4-a2d9-03ce4caad5a8.png"></a>
