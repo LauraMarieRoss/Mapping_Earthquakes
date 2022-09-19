@@ -15,8 +15,6 @@ The purpose of this project is to visually show the differences between the magn
 
 # Earthquake Map
 
-Click here to see the live site
- 
-<a href="https://lauramarieross.github.io/Mapping_Earthquakes/" target="_blank">here.</a><br><br>
+Click <a href="https://lauramarieross.github.io/Mapping_Earthquakes/" target="_blank">here</a> to see the live site.<br><br>
 <a href="https://lauramarieross.github.io/Mapping_Earthquakes/">
-         <img alt="Belly Button Dashboard" src="https://user-images.githubusercontent.com/105830645/186109969-0f2da2e9-bcec-40f4-a2d9-03ce4caad5a8.png"></a>
+         <img alt="Mapping Earthquakes" src="https://user-images.githubusercontent.com/105830645/190966426-f7c3fe3a-473d-4ebc-9415-bafccf8ac2a7.png"></a>
